@@ -2,3 +2,4 @@ Hellow world!!
 this file is added in remote machine 
 so that changes has to fetch to local repo
 farmer is a back bone to the country
+git commands are updated in the latest version
